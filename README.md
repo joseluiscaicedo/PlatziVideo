@@ -1,0 +1,2 @@
+# PlatziVideo
+Reactjs practice repo
